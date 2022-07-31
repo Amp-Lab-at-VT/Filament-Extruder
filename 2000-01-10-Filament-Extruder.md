@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Madelyn Newcomb
-Alexis Tuason
+author: Madelyn Newcomb, Alexis Tuason
 show_sidebar: false
 ---
 
